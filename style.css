@@ -1,0 +1,119 @@
+body {
+    background-color: #E0E8FF;
+    font-family: red hat display;
+    background-image: url("images/pattern-background-desktop.svg");
+    background-repeat: no-repeat;
+}
+.div {
+    margin: auto;
+    margin-top: 102px;
+    margin-bottom: 102px;
+    width: 450px;
+    height: 697px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+#ilustrationdiv {
+    max-width: 100%;
+}
+.h1 {
+    color: #1F2E55;
+    font-size: 28px;
+    font-weight: 900;
+    text-align: center;
+    line-height: 37px;
+    margin-top: 45px;
+}
+.Pdiv {
+    color: #717FA6;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    margin-top: 17px;
+}
+.seconddiv {
+    background-color: #F7F9FF;
+    display: flex;
+    position: relative;
+    width: 354px;
+    height: 98px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 32px;
+    border-radius: 11px;
+    
+}
+.audio {
+    display: flex;
+    align-items: center;
+    padding: 25px;
+}
+.h2p {
+    display: flex;
+    flex-direction: column;
+    width:118px ;
+}
+
+.p {
+    color: #717FA6;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    width: 92px;
+    height: 21px;
+    margin-top: 6px;
+}
+    
+.h2 {
+    color: #1F2E55;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 21px;
+    height: 21px;
+    margin-top: 25px;
+}
+.a {
+    color: #382AE1;
+    font-size: 14px;
+    line-height: 18.52px;
+    font-weight: 700;
+    display: flex;
+    margin-left: 68px;
+    align-self: center;
+}
+a {
+    text-decoration: none;
+}
+.proceed {
+    background-color: #382AE1;
+    width: 354px;
+    height: 50px;
+    border-radius: 11px;
+    margin: 32px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.pp {
+    color:#FFFFFF;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 20px;
+    
+}
+.cancel {
+    margin: 32px auto;
+    margin-bottom: 48px;
+    width: 96px;
+    height: 20px;
+}
+.co {
+    color: #717FA6;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 19.85px;
+    text-align: center;
+}
